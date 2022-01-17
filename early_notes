@@ -1,0 +1,14 @@
+demarcating factors:
+
+file sizes
+	check *not* rarchive segments
+naming schemes ([S/E][#/##])
+	specifically on files that constitute X% of folder size
+folder structure
+
+Other reliablity checks, for top level eligibility to be parsed as media:
+
+file type
+min file size 500ish MB?
+
+file utility gets file type independent of filename ending
